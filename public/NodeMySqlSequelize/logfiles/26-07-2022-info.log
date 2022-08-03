@@ -1,0 +1,63 @@
+{"level":"info","message":"server up on port 8080","timestamp":"2022-07-26T07:53:58.541Z"}
+{"level":"info","message":"connected to sql server.","timestamp":"2022-07-26T07:53:58.597Z"}
+{"level":"info","message":"server up on port 8080","timestamp":"2022-07-26T07:54:50.664Z"}
+{"level":"info","message":"connected to sql server.","timestamp":"2022-07-26T07:54:50.722Z"}
+{"level":"info","message":"server up on port 8080","timestamp":"2022-07-26T07:54:55.421Z"}
+{"level":"info","message":"connected to sql server.","timestamp":"2022-07-26T07:54:55.474Z"}
+{"level":"info","message":"data recived..","timestamp":"2022-07-26T07:55:19.367Z","url":"/gigs"}
+{"level":"info","message":"server up on port 8080","timestamp":"2022-07-26T08:09:47.935Z"}
+{"level":"info","message":"connected to sql server.","timestamp":"2022-07-26T08:09:48.001Z"}
+{"level":"info","message":"data recived..","timestamp":"2022-07-26T08:09:56.243Z","url":"/gigs"}
+{"level":"info","message":"data recived..","timestamp":"2022-07-26T08:10:33.519Z","url":"/gigs"}
+{"level":"info","message":"data recived..","timestamp":"2022-07-26T08:10:36.754Z","url":"/gigs"}
+{"level":"info","message":"server up on port 8080","timestamp":"2022-07-26T08:11:20.642Z"}
+{"level":"info","message":"connected to sql server.","timestamp":"2022-07-26T08:11:20.716Z"}
+{"level":"info","message":"data recived..","timestamp":"2022-07-26T08:11:26.530Z","url":"/gigs"}
+{"level":"info","message":"server up on port 8080","timestamp":"2022-07-26T08:11:58.105Z"}
+{"level":"info","message":"connected to sql server.","timestamp":"2022-07-26T08:11:58.173Z"}
+{"level":"info","message":"data recived..","timestamp":"2022-07-26T08:12:13.437Z","url":"/gigs"}
+{"level":"info","message":"server up on port 8080","timestamp":"2022-07-26T08:13:04.702Z"}
+{"level":"info","message":"connected to sql server.","timestamp":"2022-07-26T08:13:04.783Z"}
+{"level":"info","message":"data recived..","timestamp":"2022-07-26T08:13:18.801Z","url":"/gigs"}
+{"level":"info","message":"server up on port 8080","timestamp":"2022-07-26T08:14:05.612Z"}
+{"level":"info","message":"connected to sql server.","timestamp":"2022-07-26T08:14:05.677Z"}
+{"level":"info","message":"data recived..","timestamp":"2022-07-26T08:14:11.247Z","url":"/gigs"}
+{"level":"info","message":"server up on port 8080","timestamp":"2022-07-26T08:16:43.132Z"}
+{"level":"info","message":"connected to sql server.","timestamp":"2022-07-26T08:16:43.194Z"}
+{"level":"info","message":"data recived..","timestamp":"2022-07-26T08:17:58.903Z","url":"/gigs"}
+{"level":"info","message":"data recived..","timestamp":"2022-07-26T08:18:36.697Z","url":"/gigs"}
+{"level":"info","message":"data recived..","timestamp":"2022-07-26T08:18:46.018Z","url":"/gigs"}
+{"level":"info","message":"data recived..","timestamp":"2022-07-26T08:20:12.140Z","url":"/gigs"}
+{"level":"info","message":"server up on port 8080","timestamp":"2022-07-26T09:36:16.971Z"}
+{"level":"info","message":"connected to sql server.","timestamp":"2022-07-26T09:36:17.059Z"}
+{"level":"info","message":"data recived..","timestamp":"2022-07-26T09:36:37.161Z","url":"/gigs"}
+{"level":"info","message":"data recived..","timestamp":"2022-07-26T09:37:49.782Z","url":"/gigs"}
+{"level":"info","message":"server up on port 8080","timestamp":"2022-07-26T09:41:42.157Z"}
+{"level":"info","message":"connected to sql server.","timestamp":"2022-07-26T09:41:42.229Z"}
+{"level":"info","message":"server up on port 8080","timestamp":"2022-07-26T09:41:45.645Z"}
+{"level":"info","message":"connected to sql server.","timestamp":"2022-07-26T09:41:45.716Z"}
+{"level":"info","message":"server up on port 8080","timestamp":"2022-07-26T09:46:17.408Z"}
+{"level":"info","message":"connected to sql server.","timestamp":"2022-07-26T09:46:17.470Z"}
+{"level":"info","message":"server up on port 8080","timestamp":"2022-07-26T09:46:24.420Z"}
+{"level":"info","message":"connected to sql server.","timestamp":"2022-07-26T09:46:24.480Z"}
+{"level":"info","message":"server up on port 8080","timestamp":"2022-07-26T09:50:42.621Z"}
+{"level":"info","message":"connected to sql server.","timestamp":"2022-07-26T09:50:42.714Z"}
+{"level":"info","message":"server up on port 8080","timestamp":"2022-07-26T09:52:55.800Z"}
+{"level":"info","message":"connected to sql server.","timestamp":"2022-07-26T09:52:55.865Z"}
+{"level":"info","message":"data recived..","timestamp":"2022-07-26T09:53:06.467Z","url":"/gigs"}
+{"level":"info","message":"data recived..","timestamp":"2022-07-26T09:56:44.563Z","url":"/gigs"}
+{"level":"info","message":"server up on port 8080","timestamp":"2022-07-26T10:00:06.940Z"}
+{"level":"info","message":"connected to sql server.","timestamp":"2022-07-26T10:00:07.002Z"}
+{"level":"info","message":"server up on port 8080","timestamp":"2022-07-26T10:00:37.309Z"}
+{"level":"info","message":"connected to sql server.","timestamp":"2022-07-26T10:00:37.382Z"}
+{"level":"info","message":{"apiUrl":"/"},"timestamp":"2022-07-26T10:00:47.686Z"}
+{"level":"info","message":"server up on port 8080","timestamp":"2022-07-26T10:01:15.440Z"}
+{"level":"info","message":"connected to sql server.","timestamp":"2022-07-26T10:01:15.501Z"}
+{"level":"info","message":{"apiUrl":"/"},"timestamp":"2022-07-26T10:01:21.429Z"}
+{"level":"info","message":"server up on port 8080","timestamp":"2022-07-26T10:02:55.178Z"}
+{"level":"info","message":"connected to sql server.","timestamp":"2022-07-26T10:02:55.252Z"}
+{"level":"info","message":{"apiUrl":"/"},"timestamp":"2022-07-26T10:02:59.398Z"}
+{"level":"info","message":"server up on port 8080","timestamp":"2022-07-26T10:04:26.016Z"}
+{"level":"info","message":"connected to sql server.","timestamp":"2022-07-26T10:04:26.091Z"}
+{"level":"info","message":{"apiUrl":"/"},"timestamp":"2022-07-26T10:04:31.542Z"}
+{"level":"info","message":"data recived..","timestamp":"2022-07-26T10:05:15.518Z","url":"/gigs"}

@@ -1,0 +1,37 @@
+extends layout
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+      <title>Upload csv file to MySQL database</title>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <link href="../public/stylesheets/bootstrap.css" rel="stylesheet" type="text/css"/>
+    </head>
+    <body>
+      <h1>Upload csv file to MySQL database</h1>
+      <form action="/uploadcsv" enctype="multipart/form-data" method="post" id="uploadForm">
+        <label for="formFileMultiple" class="form-label">Multiple files upload</label>
+        <input class="form-control" type="file" name="uploadfile" accept='csv' id="formFileMultiple" multiple />
+        <input type="submit" value="Upload CSV">
+        <span id = "status"><span>
+      </form>
+      </body>
+    <script>
+      $(document).ready(function() {
+     $('#uploadForm').submit(function() {
+        $("#status").empty().text("File is uploading...");
+        $(this).ajaxSubmit({
+            error: function(xhr) {
+          status('Error: ' + xhr.status);
+            },
+            success: function(response) {
+        console.log(response)
+            $("#status").empty().text(response);
+            }
+    });
+    return false;
+    });    
+});
+    </script>
+</html>

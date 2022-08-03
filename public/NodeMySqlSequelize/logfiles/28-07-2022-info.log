@@ -1,0 +1,3 @@
+{"level":"info","message":"server up on port 8080","timestamp":"2022-07-28T07:27:54.479Z"}
+{"level":"info","message":"connected to sql server.","timestamp":"2022-07-28T07:27:54.573Z"}
+{"level":"info","message":{"apiUrl":"/"},"timestamp":"2022-07-28T07:28:26.666Z"}
